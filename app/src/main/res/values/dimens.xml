@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="speed_text_size">54sp</dimen>
+    <dimen name="average_speed_text_size">34sp</dimen>
+    <dimen name="average_speed_label_size">24sp</dimen>
+    <dimen name="average_speed_label_margin">4dp</dimen>
+</resources>

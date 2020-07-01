@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_ubi</string>
+    <string name="no_location_permission">This app need the location permission</string>
+    <string name="location_not_enabled">Please enable location</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="km_h_int">%1$d km/h</string>
+    <string name="km_h_float">%1$.2f km/h</string>
+    <string name="default_speed_text">0 km/h</string>
+</resources>
